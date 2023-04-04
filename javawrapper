@@ -1,0 +1,1 @@
+java -jar C:\local-repos\vosp-api-wrappers-java-23.3.11.1-dist\VeracodeJavaAPI.jar -action uploadandscan -appname DVWA -createprofile false -filepath C:\local-repos\dvwa-master.zip -version 29
